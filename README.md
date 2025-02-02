@@ -1,8 +1,7 @@
 ```markdown
 # MITRE ATT&CK Automated Pentest Framework
 
-**Author:** Pin3apple  
-**Date:** 2025-02-02
+**Author:** Pin3apple
 
 > **WARNING:** Use this framework **only** on systems you are explicitly authorized to test. Unauthorized testing is illegal and unethical.
 
