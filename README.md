@@ -1,7 +1,3 @@
-Below is an example of a **README.md** file for your GitHub repository that explains the usage and provides examples for the MITRE ATT&CK Automated Pentest Framework:
-
----
-
 ```markdown
 # MITRE ATT&CK Automated Pentest Framework
 
