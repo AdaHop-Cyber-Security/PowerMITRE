@@ -1,4 +1,3 @@
-```markdown
 # MITRE ATT&CK Automated Pentest Framework
 
 **Author:** Pin3apple
