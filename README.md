@@ -90,10 +90,6 @@ This command will execute the tests on `example.com` and store the log entries i
 
 This framework is provided for **educational** and **authorized penetration testing** purposes only. Use it responsibly and always ensure you have explicit permission before testing any system.
 
-## Contributing
-
-Contributions, improvements, and suggestions are welcome. Please open an issue or submit a pull request if you have ideas to enhance the framework.
-
 ---
 
 *Happy Testing!*
